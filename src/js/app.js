@@ -8,7 +8,7 @@ App = {
     return await App.initWeb3();
   },
 
-  initWeb3: function() {
+  initWeb3: async function() {
 
       // Modern dapp browsers...
       if (window.ethereum) {
