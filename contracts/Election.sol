@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity >=0.5.0 <0.7.0;
 
 contract Election {
     // Model a Candidate
@@ -21,7 +21,7 @@ contract Election {
         uint indexed _candidateId
     );
 
-    constructor () public {
+    constructor() public {
         addCandidate("Tiny 熊");
         addCandidate("Big 熊");
     }
