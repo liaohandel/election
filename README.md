@@ -41,9 +41,8 @@ Visit this URL in your browser: http://localhost:3000
 
 
 加我微信：xlbxiong 加我备注：DApp，进入DApp 开发互助讨论群，微信二维码：
-<p align="center">
-  <img src="https://github.com/xilibi2003/Upchain-wallet/blob/master/img/tiny_qrcode.jpeg" width="300">
-</p>
+
+
 
 
 欢迎加入[深入浅出区块链 知识星球](https://learnblockchain.cn/images/zsxq.png) 成长更快一点。
